@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+You'm oo my way to pass the DEVASC exam
+At this rate i'll be ready for the DEVASC exam
+You'm learoing git! YAYgit branch
+>>>>>>> test
+
